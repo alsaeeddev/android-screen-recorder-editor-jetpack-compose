@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Recorder</string>
+    <string name="quick_tile_label">Screen Recorder</string>
+    <string name="quick_tile_description">Tap to start or stop screen recording</string>
+</resources>
